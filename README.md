@@ -1,4 +1,4 @@
-# 📚 API de Cadastramento de Livros
+# 📚 API para Cadastramento de Livros
 
 API simples para cadastro e gerenciamento de livros, desenvolvida em Python utilizando Flask e SQLite.
 
