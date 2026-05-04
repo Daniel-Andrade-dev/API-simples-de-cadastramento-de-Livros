@@ -64,8 +64,8 @@ Para testar os endpoints, utilize o **Postman** (ou outra ferramenta similar).
 
 ⚠️ **Observações importantes:**
 
-* As datas devem estar no formato `YYYY-MM-DD` ou `YYYY/MM/DD`
-* Os campos devem ser preenchidos corretamente
+* As datas devem estar no formato `DD/MM/YYYY'
+* Os campos devem ser preenchidos corretamente no body
 
 ---
 
