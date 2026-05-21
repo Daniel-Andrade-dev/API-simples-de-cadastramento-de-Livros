@@ -98,8 +98,8 @@ Para testar os endpoints, utilize o **Postman** (ou outra ferramenta similar).
   "autor": "Autor do Livro",
   "preco": 99.99,
   "ano": 2026,
-  "data_retirada": "2025-04-14",
-  "data_entrega": "2026-05-03"
+  "data_retirada": "2025/04/14",
+  "data_entrega": "2026/05/03"
 }
 ```
 
